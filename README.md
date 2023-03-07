@@ -8,6 +8,8 @@ Tcp连接的简单示例
 
 生成可执行文件： gcc tcp_server.c -o server
 
+可能要系统管理员权限 sudo
+
 运行：./server 虚拟机的ip地址 选择的端口
 
 ### 2.客户端tcp_client
