@@ -10,7 +10,7 @@ Tcp连接的简单示例
 
 运行：./server 虚拟机的ip地址 选择的端口
 
-### 2.服务端tcp_server
+### 2.客户端tcp_client
 
 再开一个终端
 
